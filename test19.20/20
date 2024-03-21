@@ -1,0 +1,21 @@
+def compare(data1, data2) :
+    temp = False
+    for i in range(len(data1)) :
+       for j in range(len(data2)) :
+           if data2[j] == data1[i] :
+                temp = True
+    return temp
+           
+
+
+temp_1 = []
+temp_2 = []
+for i in range(5) :
+    x = int(input("list_1 숫자 입력"))
+    temp_1.append(x)
+for i in range(5) :
+    x = int(input("list_2 숫자 입력"))
+    temp_2.append(x)
+print(compare(temp_1,temp_2))
+    
+    
