@@ -1,0 +1,180 @@
+Team 맨체스터 시티 vs Team 리버풀
+Team 맨체스터 시티 goals: 2
+Team 리버풀 goals: 6
+
+Team 맨체스터 시티 vs Team 아스널
+Team 맨체스터 시티 goals: 4
+Team 아스널 goals: 1
+
+Team 맨체스터 시티 vs Team 애스턴빌라
+Team 맨체스터 시티 goals: 3
+Team 애스턴빌라 goals: 6
+
+Team 맨체스터 시티 vs Team 토트넘
+Team 맨체스터 시티 goals: 4
+Team 토트넘 goals: 0
+
+Team 맨체스터 시티 vs Team 첼시
+Team 맨체스터 시티 goals: 3
+Team 첼시 goals: 5
+
+Team 맨체스터 시티 vs Team 맨체스터 유나이티드
+Team 맨체스터 시티 goals: 0
+Team 맨체스터 유나이티드 goals: 3
+
+Team 맨체스터 시티 vs Team 에버턴
+Team 맨체스터 시티 goals: 1
+Team 에버턴 goals: 4
+
+Team 맨체스터 시티 vs Team 뉴캐슬
+Team 맨체스터 시티 goals: 5
+Team 뉴캐슬 goals: 3
+
+Team 맨체스터 시티 vs Team 울브스
+Team 맨체스터 시티 goals: 0
+Team 울브스 goals: 3
+
+Team 리버풀 vs Team 아스널
+Team 리버풀 goals: 3
+Team 아스널 goals: 2
+
+Team 리버풀 vs Team 애스턴빌라
+Team 리버풀 goals: 4
+Team 애스턴빌라 goals: 3
+
+Team 리버풀 vs Team 토트넘
+Team 리버풀 goals: 1
+Team 토트넘 goals: 4
+
+Team 리버풀 vs Team 첼시
+Team 리버풀 goals: 0
+Team 첼시 goals: 4
+
+Team 리버풀 vs Team 맨체스터 유나이티드
+Team 리버풀 goals: 4
+Team 맨체스터 유나이티드 goals: 3
+
+Team 리버풀 vs Team 에버턴
+Team 리버풀 goals: 1
+Team 에버턴 goals: 2
+
+Team 리버풀 vs Team 뉴캐슬
+Team 리버풀 goals: 4
+Team 뉴캐슬 goals: 2
+
+Team 리버풀 vs Team 울브스
+Team 리버풀 goals: 1
+Team 울브스 goals: 6
+
+Team 아스널 vs Team 애스턴빌라
+Team 아스널 goals: 6
+Team 애스턴빌라 goals: 4
+
+Team 아스널 vs Team 토트넘
+Team 아스널 goals: 2
+Team 토트넘 goals: 1
+
+Team 아스널 vs Team 첼시
+Team 아스널 goals: 5
+Team 첼시 goals: 4
+
+Team 아스널 vs Team 맨체스터 유나이티드
+Team 아스널 goals: 0
+Team 맨체스터 유나이티드 goals: 5
+
+Team 아스널 vs Team 에버턴
+Team 아스널 goals: 4
+Team 에버턴 goals: 6
+
+Team 아스널 vs Team 뉴캐슬
+Team 아스널 goals: 6
+Team 뉴캐슬 goals: 1
+
+Team 아스널 vs Team 울브스
+Team 아스널 goals: 1
+Team 울브스 goals: 0
+
+Team 애스턴빌라 vs Team 토트넘
+Team 애스턴빌라 goals: 1
+Team 토트넘 goals: 5
+
+Team 애스턴빌라 vs Team 첼시
+Team 애스턴빌라 goals: 0
+Team 첼시 goals: 0
+
+Team 애스턴빌라 vs Team 맨체스터 유나이티드
+Team 애스턴빌라 goals: 6
+Team 맨체스터 유나이티드 goals: 4
+
+Team 애스턴빌라 vs Team 에버턴
+Team 애스턴빌라 goals: 2
+Team 에버턴 goals: 4
+
+Team 애스턴빌라 vs Team 뉴캐슬
+Team 애스턴빌라 goals: 5
+Team 뉴캐슬 goals: 5
+
+Team 애스턴빌라 vs Team 울브스
+Team 애스턴빌라 goals: 3
+Team 울브스 goals: 6
+
+Team 토트넘 vs Team 첼시
+Team 토트넘 goals: 1
+Team 첼시 goals: 0
+
+Team 토트넘 vs Team 맨체스터 유나이티드
+Team 토트넘 goals: 4
+Team 맨체스터 유나이티드 goals: 6
+
+Team 토트넘 vs Team 에버턴
+Team 토트넘 goals: 0
+Team 에버턴 goals: 2
+
+Team 토트넘 vs Team 뉴캐슬
+Team 토트넘 goals: 4
+Team 뉴캐슬 goals: 5
+
+Team 토트넘 vs Team 울브스
+Team 토트넘 goals: 3
+Team 울브스 goals: 0
+
+Team 첼시 vs Team 맨체스터 유나이티드
+Team 첼시 goals: 6
+Team 맨체스터 유나이티드 goals: 6
+
+Team 첼시 vs Team 에버턴
+Team 첼시 goals: 5
+Team 에버턴 goals: 4
+
+Team 첼시 vs Team 뉴캐슬
+Team 첼시 goals: 1
+Team 뉴캐슬 goals: 0
+
+Team 첼시 vs Team 울브스
+Team 첼시 goals: 2
+Team 울브스 goals: 3
+
+Team 맨체스터 유나이티드 vs Team 에버턴
+Team 맨체스터 유나이티드 goals: 5
+Team 에버턴 goals: 2
+
+Team 맨체스터 유나이티드 vs Team 뉴캐슬
+Team 맨체스터 유나이티드 goals: 5
+Team 뉴캐슬 goals: 6
+
+Team 맨체스터 유나이티드 vs Team 울브스
+Team 맨체스터 유나이티드 goals: 4
+Team 울브스 goals: 4
+
+Team 에버턴 vs Team 뉴캐슬
+Team 에버턴 goals: 5
+Team 뉴캐슬 goals: 4
+
+Team 에버턴 vs Team 울브스
+Team 에버턴 goals: 6
+Team 울브스 goals: 5
+
+Team 뉴캐슬 vs Team 울브스
+Team 뉴캐슬 goals: 6
+Team 울브스 goals: 1
+

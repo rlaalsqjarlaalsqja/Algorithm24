@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>881</width>
+    <height>531</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="Start_Button_4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>470</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>뒤로가기</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Main_Title">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>30</y>
+     <width>531</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:24pt; font-weight:600;&quot;&gt;축구 리그 시뮬레이션&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Start_Button_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>400</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>통계</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Start_Button_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>330</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>다음 분기</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Start_Button">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>260</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>리그 분기 시작</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Main_Pix">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>0</y>
+     <width>1001</width>
+     <height>651</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="bgmBox">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>30</y>
+     <width>96</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>BGM OFF</string>
+   </property>
+  </widget>
+  <widget class="QListView" name="listView_3">
+   <property name="geometry">
+    <rect>
+     <x>26</x>
+     <y>24</y>
+     <width>151</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>80</y>
+     <width>701</width>
+     <height>441</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="3" column="1">
+     <widget class="QListView" name="listView_24"/>
+    </item>
+    <item row="8" column="7">
+     <widget class="QListView" name="listView_98"/>
+    </item>
+    <item row="5" column="5">
+     <widget class="QListView" name="listView_74"/>
+    </item>
+    <item row="7" column="4">
+     <widget class="QListView" name="listView_63"/>
+    </item>
+    <item row="2" column="4">
+     <widget class="QListView" name="listView_83"/>
+    </item>
+    <item row="7" column="6">
+     <widget class="QListView" name="listView_68"/>
+    </item>
+    <item row="3" column="2">
+     <widget class="QListView" name="listView_80"/>
+    </item>
+    <item row="8" column="5">
+     <widget class="QListView" name="listView_59"/>
+    </item>
+    <item row="9" column="0">
+     <widget class="QListView" name="listView_35"/>
+    </item>
+    <item row="9" column="2">
+     <widget class="QListView" name="listView_51"/>
+    </item>
+    <item row="5" column="7">
+     <widget class="QListView" name="listView_95"/>
+    </item>
+    <item row="3" column="4">
+     <widget class="QListView" name="listView_78"/>
+    </item>
+    <item row="10" column="3">
+     <widget class="QListView" name="listView_47"/>
+    </item>
+    <item row="10" column="0">
+     <widget class="QListView" name="listView_37"/>
+    </item>
+    <item row="4" column="6">
+     <widget class="QListView" name="listView_19"/>
+    </item>
+    <item row="0" column="3">
+     <widget class="QPushButton" name="pushButton_5">
+      <property name="text">
+       <string>무승부</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="4">
+     <widget class="QPushButton" name="pushButton_6">
+      <property name="text">
+       <string>득점</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="6">
+     <widget class="QListView" name="listView_76"/>
+    </item>
+    <item row="7" column="7">
+     <widget class="QListView" name="listView_97"/>
+    </item>
+    <item row="8" column="4">
+     <widget class="QListView" name="listView_58"/>
+    </item>
+    <item row="7" column="1">
+     <widget class="QListView" name="listView_32"/>
+    </item>
+    <item row="8" column="6">
+     <widget class="QListView" name="listView_60"/>
+    </item>
+    <item row="1" column="3">
+     <widget class="QListView" name="listView_87"/>
+    </item>
+    <item row="10" column="1">
+     <widget class="QListView" name="listView_38"/>
+    </item>
+    <item row="5" column="0">
+     <widget class="QListView" name="listView_27"/>
+    </item>
+    <item row="3" column="5">
+     <widget class="QListView" name="listView_77"/>
+    </item>
+    <item row="6" column="2">
+     <widget class="QListView" name="listView_64"/>
+    </item>
+    <item row="3" column="7">
+     <widget class="QListView" name="listView_93"/>
+    </item>
+    <item row="4" column="4">
+     <widget class="QListView" name="listView_17"/>
+    </item>
+    <item row="10" column="5">
+     <widget class="QListView" name="listView_49"/>
+    </item>
+    <item row="0" column="2">
+     <widget class="QPushButton" name="pushButton_4">
+      <property name="text">
+       <string>패배</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="5">
+     <widget class="QListView" name="listView_89"/>
+    </item>
+    <item row="6" column="7">
+     <widget class="QListView" name="listView_96"/>
+    </item>
+    <item row="6" column="6">
+     <widget class="QListView" name="listView_70"/>
+    </item>
+    <item row="8" column="0">
+     <widget class="QListView" name="listView_33"/>
+    </item>
+    <item row="6" column="1">
+     <widget class="QListView" name="listView_30"/>
+    </item>
+    <item row="5" column="6">
+     <widget class="QListView" name="listView_73"/>
+    </item>
+    <item row="5" column="1">
+     <widget class="QListView" name="listView_29"/>
+    </item>
+    <item row="10" column="7">
+     <widget class="QListView" name="listView_100"/>
+    </item>
+    <item row="7" column="0">
+     <widget class="QListView" name="listView_31"/>
+    </item>
+    <item row="10" column="6">
+     <widget class="QListView" name="listView_50"/>
+    </item>
+    <item row="4" column="0">
+     <widget class="QListView" name="listView_13"/>
+    </item>
+    <item row="6" column="4">
+     <widget class="QListView" name="listView_72"/>
+    </item>
+    <item row="6" column="5">
+     <widget class="QListView" name="listView_71"/>
+    </item>
+    <item row="2" column="6">
+     <widget class="QListView" name="listView_85"/>
+    </item>
+    <item row="4" column="3">
+     <widget class="QListView" name="listView_16"/>
+    </item>
+    <item row="9" column="6">
+     <widget class="QListView" name="listView_55"/>
+    </item>
+    <item row="9" column="4">
+     <widget class="QListView" name="listView_53"/>
+    </item>
+    <item row="7" column="3">
+     <widget class="QListView" name="listView_62"/>
+    </item>
+    <item row="0" column="6">
+     <widget class="QPushButton" name="pushButton_8">
+      <property name="text">
+       <string>득실차</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QListView" name="listView_14"/>
+    </item>
+    <item row="10" column="2">
+     <widget class="QListView" name="listView_46"/>
+    </item>
+    <item row="4" column="5">
+     <widget class="QListView" name="listView_18"/>
+    </item>
+    <item row="4" column="2">
+     <widget class="QListView" name="listView_15"/>
+    </item>
+    <item row="9" column="3">
+     <widget class="QListView" name="listView_52"/>
+    </item>
+    <item row="9" column="1">
+     <widget class="QListView" name="listView_36"/>
+    </item>
+    <item row="1" column="7">
+     <widget class="QListView" name="listView_91"/>
+    </item>
+    <item row="7" column="2">
+     <widget class="QListView" name="listView_61"/>
+    </item>
+    <item row="2" column="0">
+     <widget class="QListView" name="listView_22"/>
+    </item>
+    <item row="0" column="1">
+     <widget class="QPushButton" name="pushButton_9">
+      <property name="text">
+       <string>승리</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="5">
+     <widget class="QListView" name="listView_69"/>
+    </item>
+    <item row="8" column="3">
+     <widget class="QListView" name="listView_57"/>
+    </item>
+    <item row="5" column="4">
+     <widget class="QListView" name="listView_75"/>
+    </item>
+    <item row="1" column="2">
+     <widget class="QListView" name="listView_86"/>
+    </item>
+    <item row="6" column="3">
+     <widget class="QListView" name="listView_65"/>
+    </item>
+    <item row="1" column="0">
+     <widget class="QListView" name="listView_23"/>
+    </item>
+    <item row="9" column="5">
+     <widget class="QListView" name="listView_54"/>
+    </item>
+    <item row="2" column="7">
+     <widget class="QListView" name="listView_92"/>
+    </item>
+    <item row="1" column="6">
+     <widget class="QListView" name="listView_90"/>
+    </item>
+    <item row="2" column="2">
+     <widget class="QListView" name="listView_81"/>
+    </item>
+    <item row="5" column="3">
+     <widget class="QListView" name="listView_67"/>
+    </item>
+    <item row="0" column="5">
+     <widget class="QPushButton" name="pushButton_7">
+      <property name="text">
+       <string>실점</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="4">
+     <widget class="QListView" name="listView_88"/>
+    </item>
+    <item row="10" column="4">
+     <widget class="QListView" name="listView_48"/>
+    </item>
+    <item row="3" column="0">
+     <widget class="QListView" name="listView_21"/>
+    </item>
+    <item row="0" column="7">
+     <widget class="QPushButton" name="pushButton_10">
+      <property name="text">
+       <string>승점</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QListView" name="listView_26"/>
+    </item>
+    <item row="5" column="2">
+     <widget class="QListView" name="listView_66"/>
+    </item>
+    <item row="0" column="0">
+     <widget class="QPushButton" name="pushButton">
+      <property name="text">
+       <string>구단</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="1">
+     <widget class="QListView" name="listView_34"/>
+    </item>
+    <item row="9" column="7">
+     <widget class="QListView" name="listView_99"/>
+    </item>
+    <item row="6" column="0">
+     <widget class="QListView" name="listView_20"/>
+    </item>
+    <item row="3" column="3">
+     <widget class="QListView" name="listView_79"/>
+    </item>
+    <item row="2" column="1">
+     <widget class="QListView" name="listView_25"/>
+    </item>
+    <item row="8" column="2">
+     <widget class="QListView" name="listView_56"/>
+    </item>
+    <item row="2" column="5">
+     <widget class="QListView" name="listView_84"/>
+    </item>
+    <item row="4" column="7">
+     <widget class="QListView" name="listView_94"/>
+    </item>
+    <item row="2" column="3">
+     <widget class="QListView" name="listView_82"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QListView" name="listView">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <zorder>Main_Pix</zorder>
+  <zorder>listView_3</zorder>
+  <zorder>Start_Button_4</zorder>
+  <zorder>Main_Title</zorder>
+  <zorder>Start_Button_3</zorder>
+  <zorder>Start_Button_2</zorder>
+  <zorder>Start_Button</zorder>
+  <zorder>bgmBox</zorder>
+  <zorder>gridLayoutWidget</zorder>
+  <zorder>listView</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
